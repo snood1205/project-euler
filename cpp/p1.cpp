@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 
 int main(int argc, char ** argv)
 {
@@ -11,4 +11,6 @@ int main(int argc, char ** argv)
     }
   }
   std::cout << sum << std::endl;
+
+  return 0;
 }
