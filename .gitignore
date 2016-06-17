@@ -181,3 +181,8 @@ target/
 
 /cpp/*
 !/cpp/*.*
+
+###PHP###
+
+# HTML Compiled files
+/php/*.html
