@@ -178,3 +178,6 @@ target/
 *.exe
 *.out
 *.app
+
+/cpp/*
+!/cpp/*.*
