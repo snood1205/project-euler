@@ -190,3 +190,7 @@ target/
 ### COBOL ###
 /cobol/*
 !/cobol/*.*
+
+### Rust ###
+/rust/*
+!/rust/*.*
