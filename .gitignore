@@ -186,3 +186,7 @@ target/
 
 # HTML Compiled files
 /php/*.html
+
+### COBOL ###
+/cobol/*
+!/cobol/*.*
